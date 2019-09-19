@@ -35,6 +35,11 @@
         <default>false</default>
         <label>Italy</label>
     </customValue>
+    <customValue>
+    <fullName>Norway</fullName>
+    <default>false</default>
+    <label>Italy</label>
+</customValue>
     <masterLabel>Eu GLobal</masterLabel>
     <sorted>false</sorted>
 </GlobalValueSet>
