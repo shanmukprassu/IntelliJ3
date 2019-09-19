@@ -203,6 +203,11 @@
                     <default>false</default>
                     <label>Columbia</label>
                 </value>
+                <value>
+                    <fullName>Columbia2</fullName>
+                    <default>false</default>
+                    <label>Columbia2</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
         <visibleLines>4</visibleLines>
@@ -323,6 +328,10 @@
                 <fullName>Columbia1</fullName>
                 <default>false</default>
             </values>
+            <values>
+                <fullName>Columbia2</fullName>
+                <default>false</default>
+            </values>
         </picklistValues>
         <picklistValues>
             <picklist>EU_Countries__c</picklist>
@@ -403,6 +412,10 @@
             </values>
             <values>
                 <fullName>Srilanka</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Columbia2</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
