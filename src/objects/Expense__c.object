@@ -203,11 +203,6 @@
                     <default>false</default>
                     <label>Columbia</label>
                 </value>
-                <value>
-                    <fullName>Columbia2</fullName>
-                    <default>false</default>
-                    <label>Columbia2</label>
-                </value>
             </valueSetDefinition>
         </valueSet>
         <visibleLines>4</visibleLines>
@@ -274,11 +269,6 @@
                     <default>false</default>
                     <label>Ireland1</label>
                 </value>
-                <value>
-                    <fullName>Ireland2</fullName>
-                    <default>false</default>
-                    <label>Ireland2</label>
-                </value>
             </valueSetDefinition>
         </valueSet>
         <visibleLines>4</visibleLines>
@@ -326,10 +316,6 @@
             </values>
             <values>
                 <fullName>Columbia1</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Columbia2</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
@@ -386,10 +372,6 @@
                 <fullName>Ireland1</fullName>
                 <default>false</default>
             </values>
-            <values>
-                <fullName>Ireland2</fullName>
-                <default>false</default>
-            </values>
         </picklistValues>
     </recordTypes>
     <recordTypes>
@@ -412,10 +394,6 @@
             </values>
             <values>
                 <fullName>Srilanka</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Columbia2</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
@@ -466,10 +444,6 @@
             </values>
             <values>
                 <fullName>Ireland1</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Ireland2</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
